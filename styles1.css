@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 70 px; /* Крупный заголовок */
+}
+
+h3 {
+    font-size: 1.75em; /* Менее крупный заголовок */
+}
+
+h5 {
+    font-size: 1em; /* Самый мелкий заголовок */
+}
+
+ul {
+    list-style-type: disc; /* Стиль маркеров списка */
+    margin-left: 20px; /* Отступ слева для списка */
+}
+
+li {
+    margin-bottom: 5px; /* Отступ между пунктами списка */
+}
+
+em {
+    font-style: italic; /* Курсив */
+}
+
+strong {
+    font-weight: bold; /* Полужирный текст */
+}
